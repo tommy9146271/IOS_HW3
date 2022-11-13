@@ -14,6 +14,29 @@
 		65485A86291D516900C379D7 /* HW3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65485A85291D516900C379D7 /* HW3Tests.swift */; };
 		65485A90291D516900C379D7 /* HW3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65485A8F291D516900C379D7 /* HW3UITests.swift */; };
 		65485A92291D516900C379D7 /* HW3UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65485A91291D516900C379D7 /* HW3UITestsLaunchTests.swift */; };
+		65485A9F291D595C00C379D7 /* Define.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65485A9E291D595C00C379D7 /* Define.swift */; };
+		65485AA1291D676200C379D7 /* LyricsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65485AA0291D676200C379D7 /* LyricsView.swift */; };
+		655D25B5291DFA950039C3E8 /* Sweet Nothing.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25A8291DFA940039C3E8 /* Sweet Nothing.mp3 */; };
+		655D25B6291DFA950039C3E8 /* Labyrinth.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25A9291DFA940039C3E8 /* Labyrinth.mp3 */; };
+		655D25B7291DFA950039C3E8 /* Karma.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25AA291DFA940039C3E8 /* Karma.mp3 */; };
+		655D25B8291DFA950039C3E8 /* Question...?.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25AB291DFA940039C3E8 /* Question...?.mp3 */; };
+		655D25B9291DFA950039C3E8 /* Mastermind.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25AC291DFA940039C3E8 /* Mastermind.mp3 */; };
+		655D25BA291DFA950039C3E8 /* Vigilante Shit.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25AD291DFA940039C3E8 /* Vigilante Shit.mp3 */; };
+		655D25BB291DFA950039C3E8 /* You're On Your Own,Kid.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25AE291DFA940039C3E8 /* You're On Your Own,Kid.mp3 */; };
+		655D25BC291DFA950039C3E8 /* Snow On The Beach.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25AF291DFA940039C3E8 /* Snow On The Beach.mp3 */; };
+		655D25BD291DFA950039C3E8 /* Midnight Rain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25B0291DFA940039C3E8 /* Midnight Rain.mp3 */; };
+		655D25BE291DFA950039C3E8 /* Anti-Hero.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25B1291DFA940039C3E8 /* Anti-Hero.mp3 */; };
+		655D25BF291DFA950039C3E8 /* Bejeweled.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25B2291DFA950039C3E8 /* Bejeweled.mp3 */; };
+		655D25C0291DFA950039C3E8 /* Lavender Haze.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25B3291DFA950039C3E8 /* Lavender Haze.mp3 */; };
+		655D25C1291DFA950039C3E8 /* Maroon.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25B4291DFA950039C3E8 /* Maroon.mp3 */; };
+		655D25CB291EA8920039C3E8 /* Safe & Sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25C3291EA8910039C3E8 /* Safe & Sound.mp3 */; };
+		655D25CC291EA8920039C3E8 /* Look What You Made Me Do.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25C4291EA8910039C3E8 /* Look What You Made Me Do.mp3 */; };
+		655D25CD291EA8920039C3E8 /* Love Story.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25C5291EA8910039C3E8 /* Love Story.mp3 */; };
+		655D25CE291EA8920039C3E8 /* So It Goes....mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25C6291EA8920039C3E8 /* So It Goes....mp3 */; };
+		655D25CF291EA8920039C3E8 /* Wildest Dreams.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25C7291EA8920039C3E8 /* Wildest Dreams.mp3 */; };
+		655D25D0291EA8920039C3E8 /* High Infidelity.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25C8291EA8920039C3E8 /* High Infidelity.mp3 */; };
+		655D25D1291EA8920039C3E8 /* We Are Never Ever Getting Back Together.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25C9291EA8920039C3E8 /* We Are Never Ever Getting Back Together.mp3 */; };
+		655D25D2291EA8920039C3E8 /* Blank Space.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 655D25CA291EA8920039C3E8 /* Blank Space.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +67,29 @@
 		65485A8B291D516900C379D7 /* HW3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HW3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		65485A8F291D516900C379D7 /* HW3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HW3UITests.swift; sourceTree = "<group>"; };
 		65485A91291D516900C379D7 /* HW3UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HW3UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		65485A9E291D595C00C379D7 /* Define.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Define.swift; sourceTree = "<group>"; };
+		65485AA0291D676200C379D7 /* LyricsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LyricsView.swift; sourceTree = "<group>"; };
+		655D25A8291DFA940039C3E8 /* Sweet Nothing.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Sweet Nothing.mp3"; sourceTree = "<group>"; };
+		655D25A9291DFA940039C3E8 /* Labyrinth.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Labyrinth.mp3; sourceTree = "<group>"; };
+		655D25AA291DFA940039C3E8 /* Karma.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Karma.mp3; sourceTree = "<group>"; };
+		655D25AB291DFA940039C3E8 /* Question...?.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Question...?.mp3"; sourceTree = "<group>"; };
+		655D25AC291DFA940039C3E8 /* Mastermind.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Mastermind.mp3; sourceTree = "<group>"; };
+		655D25AD291DFA940039C3E8 /* Vigilante Shit.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Vigilante Shit.mp3"; sourceTree = "<group>"; };
+		655D25AE291DFA940039C3E8 /* You're On Your Own,Kid.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "You're On Your Own,Kid.mp3"; sourceTree = "<group>"; };
+		655D25AF291DFA940039C3E8 /* Snow On The Beach.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Snow On The Beach.mp3"; sourceTree = "<group>"; };
+		655D25B0291DFA940039C3E8 /* Midnight Rain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Midnight Rain.mp3"; sourceTree = "<group>"; };
+		655D25B1291DFA940039C3E8 /* Anti-Hero.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Anti-Hero.mp3"; sourceTree = "<group>"; };
+		655D25B2291DFA950039C3E8 /* Bejeweled.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Bejeweled.mp3; sourceTree = "<group>"; };
+		655D25B3291DFA950039C3E8 /* Lavender Haze.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Lavender Haze.mp3"; sourceTree = "<group>"; };
+		655D25B4291DFA950039C3E8 /* Maroon.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Maroon.mp3; sourceTree = "<group>"; };
+		655D25C3291EA8910039C3E8 /* Safe & Sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Safe & Sound.mp3"; sourceTree = "<group>"; };
+		655D25C4291EA8910039C3E8 /* Look What You Made Me Do.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Look What You Made Me Do.mp3"; sourceTree = "<group>"; };
+		655D25C5291EA8910039C3E8 /* Love Story.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Love Story.mp3"; sourceTree = "<group>"; };
+		655D25C6291EA8920039C3E8 /* So It Goes....mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "So It Goes....mp3"; sourceTree = "<group>"; };
+		655D25C7291EA8920039C3E8 /* Wildest Dreams.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Wildest Dreams.mp3"; sourceTree = "<group>"; };
+		655D25C8291EA8920039C3E8 /* High Infidelity.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "High Infidelity.mp3"; sourceTree = "<group>"; };
+		655D25C9291EA8920039C3E8 /* We Are Never Ever Getting Back Together.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "We Are Never Ever Getting Back Together.mp3"; sourceTree = "<group>"; };
+		655D25CA291EA8920039C3E8 /* Blank Space.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Blank Space.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +140,11 @@
 		65485A73291D516800C379D7 /* HW3 */ = {
 			isa = PBXGroup;
 			children = (
+				655D25C2291E02C60039C3E8 /* Music */,
 				65485A74291D516800C379D7 /* HW3App.swift */,
 				65485A76291D516800C379D7 /* ContentView.swift */,
+				65485AA0291D676200C379D7 /* LyricsView.swift */,
+				65485A9E291D595C00C379D7 /* Define.swift */,
 				65485A78291D516900C379D7 /* Assets.xcassets */,
 				65485A7A291D516900C379D7 /* Preview Content */,
 			);
@@ -125,6 +174,34 @@
 				65485A91291D516900C379D7 /* HW3UITestsLaunchTests.swift */,
 			);
 			path = HW3UITests;
+			sourceTree = "<group>";
+		};
+		655D25C2291E02C60039C3E8 /* Music */ = {
+			isa = PBXGroup;
+			children = (
+				655D25B1291DFA940039C3E8 /* Anti-Hero.mp3 */,
+				655D25B2291DFA950039C3E8 /* Bejeweled.mp3 */,
+				655D25AA291DFA940039C3E8 /* Karma.mp3 */,
+				655D25A9291DFA940039C3E8 /* Labyrinth.mp3 */,
+				655D25B3291DFA950039C3E8 /* Lavender Haze.mp3 */,
+				655D25B4291DFA950039C3E8 /* Maroon.mp3 */,
+				655D25AC291DFA940039C3E8 /* Mastermind.mp3 */,
+				655D25B0291DFA940039C3E8 /* Midnight Rain.mp3 */,
+				655D25AB291DFA940039C3E8 /* Question...?.mp3 */,
+				655D25AF291DFA940039C3E8 /* Snow On The Beach.mp3 */,
+				655D25A8291DFA940039C3E8 /* Sweet Nothing.mp3 */,
+				655D25AD291DFA940039C3E8 /* Vigilante Shit.mp3 */,
+				655D25AE291DFA940039C3E8 /* You're On Your Own,Kid.mp3 */,
+				655D25CA291EA8920039C3E8 /* Blank Space.mp3 */,
+				655D25C8291EA8920039C3E8 /* High Infidelity.mp3 */,
+				655D25C4291EA8910039C3E8 /* Look What You Made Me Do.mp3 */,
+				655D25C5291EA8910039C3E8 /* Love Story.mp3 */,
+				655D25C3291EA8910039C3E8 /* Safe & Sound.mp3 */,
+				655D25C6291EA8920039C3E8 /* So It Goes....mp3 */,
+				655D25C9291EA8920039C3E8 /* We Are Never Ever Getting Back Together.mp3 */,
+				655D25C7291EA8920039C3E8 /* Wildest Dreams.mp3 */,
+			);
+			path = Music;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,8 +308,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				655D25B6291DFA950039C3E8 /* Labyrinth.mp3 in Resources */,
+				655D25CE291EA8920039C3E8 /* So It Goes....mp3 in Resources */,
+				655D25CD291EA8920039C3E8 /* Love Story.mp3 in Resources */,
+				655D25CF291EA8920039C3E8 /* Wildest Dreams.mp3 in Resources */,
+				655D25BB291DFA950039C3E8 /* You're On Your Own,Kid.mp3 in Resources */,
 				65485A7C291D516900C379D7 /* Preview Assets.xcassets in Resources */,
+				655D25D2291EA8920039C3E8 /* Blank Space.mp3 in Resources */,
+				655D25B5291DFA950039C3E8 /* Sweet Nothing.mp3 in Resources */,
+				655D25C1291DFA950039C3E8 /* Maroon.mp3 in Resources */,
+				655D25BA291DFA950039C3E8 /* Vigilante Shit.mp3 in Resources */,
+				655D25BF291DFA950039C3E8 /* Bejeweled.mp3 in Resources */,
+				655D25BC291DFA950039C3E8 /* Snow On The Beach.mp3 in Resources */,
+				655D25BE291DFA950039C3E8 /* Anti-Hero.mp3 in Resources */,
+				655D25D1291EA8920039C3E8 /* We Are Never Ever Getting Back Together.mp3 in Resources */,
+				655D25C0291DFA950039C3E8 /* Lavender Haze.mp3 in Resources */,
+				655D25B8291DFA950039C3E8 /* Question...?.mp3 in Resources */,
+				655D25BD291DFA950039C3E8 /* Midnight Rain.mp3 in Resources */,
+				655D25D0291EA8920039C3E8 /* High Infidelity.mp3 in Resources */,
+				655D25CB291EA8920039C3E8 /* Safe & Sound.mp3 in Resources */,
+				655D25B7291DFA950039C3E8 /* Karma.mp3 in Resources */,
+				655D25B9291DFA950039C3E8 /* Mastermind.mp3 in Resources */,
 				65485A79291D516900C379D7 /* Assets.xcassets in Resources */,
+				655D25CC291EA8920039C3E8 /* Look What You Made Me Do.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,7 +355,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65485AA1291D676200C379D7 /* LyricsView.swift in Sources */,
 				65485A77291D516800C379D7 /* ContentView.swift in Sources */,
+				65485A9F291D595C00C379D7 /* Define.swift in Sources */,
 				65485A75291D516800C379D7 /* HW3App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
